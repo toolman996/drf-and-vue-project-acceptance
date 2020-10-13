@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55ace03e-72ca-4fb2-845c-08c858181590" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hwSDG2ymo0FH7y5y9n9BptttdQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drf_bzedu/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\web_drf\drf_bzedu\drf_bzedu" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\web_drf\drf_bzedu\drf_bzedu\utils" />
+      <recent name="C:\project\web_drf\drf_bzedu\drf_bzedu\apps\payoff" />
+      <recent name="C:\project\web_drf\drf_bzedu\drf_bzedu\apps\order" />
+      <recent name="C:\project\web_drf\drf_bzedu\drf_bzedu\apps" />
+      <recent name="C:\project\web_drf\drf_bzedu\drf_bzedu\apps\course" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python">
+      <module name="drf_bzedu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ccokt\ccokt_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drf_bzedu" type="Python.DjangoServer" factoryName="Django server">
+      <module name="drf_bzedu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.drf_bzedu" />
+      <item itemvalue="Python.manage" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55ace03e-72ca-4fb2-845c-08c858181590" name="Default Changelist" comment="" />
+      <created>1600920539600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600920539600</updated>
+      <workItem from="1600920542592" duration="2984000" />
+      <workItem from="1600939182976" duration="10582000" />
+      <workItem from="1601006749501" duration="3689000" />
+      <workItem from="1601023097283" duration="11753000" />
+      <workItem from="1601179885783" duration="930000" />
+      <workItem from="1601193121322" duration="11970000" />
+      <workItem from="1601287344643" duration="7428000" />
+      <workItem from="1601368116498" duration="3667000" />
+      <workItem from="1601447649898" duration="4251000" />
+      <workItem from="1602216051383" duration="2193000" />
+      <workItem from="1602233445328" duration="1217000" />
+      <workItem from="1602234732152" duration="7091000" />
+      <workItem from="1602314013438" duration="242000" />
+      <workItem from="1602323728461" duration="2556000" />
+      <workItem from="1602475165405" duration="1109000" />
+      <workItem from="1602487145368" duration="3684000" />
+      <workItem from="1602579802855" duration="3184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600921513671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600921513671" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601037915319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601037915319" />
+    <state x="771" y="173" key="FileChooserDialogImpl" timestamp="1600940300047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="771" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600940300047" />
+    <state width="1493" height="406" key="GridCell.Tab.0.bottom" timestamp="1602580871477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="406" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602580871477" />
+    <state width="1493" height="406" key="GridCell.Tab.0.center" timestamp="1602580871477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="406" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602580871477" />
+    <state width="1493" height="406" key="GridCell.Tab.0.left" timestamp="1602580871477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="406" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602580871477" />
+    <state width="1493" height="406" key="GridCell.Tab.0.right" timestamp="1602580871477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="406" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602580871477" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601212219464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601212219464" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1601212219464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601212219464" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1601212219463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601212219463" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1601212219464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601212219464" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1602579812874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602579812874" />
+    <state x="152" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601200622770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="152" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1601200622770" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/drf_bzedu$manage.coverage" NAME="manage Coverage Results" MODIFIED="1602580860860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
